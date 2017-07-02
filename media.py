@@ -2,8 +2,7 @@ import webbrowser  # imported webbrowser module to access browser
 
 
 class Movie():
-    """class Movie() for storing movies data title,
-    storyline,poster_image_url,trailer_youtube_url"""
+    """class Movie() for storing movies data title,storyline,poster_image_url,trailer_youtube_url"""  # noqa
     # a constructor to initialize the variableds for an object
     def __init__(self, movie_title, movie_storyline, image_url, youtube_url):
         self.title = movie_title
