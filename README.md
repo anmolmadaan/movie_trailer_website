@@ -16,10 +16,10 @@ Objects for different movies are created and intialized using constructors.
 2. run **index.html**
 
 # adding more movies to page
-1. open entertainment_center.py
+1. open **entertainment_center.py**
 2. create a new object and intialize it using constructor
    e.g. movie_name = media.Movie(movie_title, movie_storyline, image_url, youtube_url)
 3. add the movie_name to movies array
    e.g. movies = [toy_story, cars, transformers, movie_name]
-4. run entertainment_center.py
-5. run index.html      
+4. run **entertainment_center.py**
+5. run **index.html**      
